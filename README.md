@@ -9,6 +9,7 @@ Usage:<br>
 python speed2.py *argument*
   * all - checks against a lot of black lists
   * big5 - checks against the major ones
+  * enter - enter a specific black list
 ```
 eg: python speed2.py all
 ```
