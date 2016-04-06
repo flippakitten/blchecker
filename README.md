@@ -1,4 +1,4 @@
-# Quick Pythong RBL Checker
+# Quick  RBL Checker
 
 Each tool is located in it's own folder
 
