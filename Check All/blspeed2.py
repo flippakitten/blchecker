@@ -14,7 +14,7 @@ elif sys.argv[1] == 'big5':
 
 def checkIPAddresses(bl):
     count = 0
-    with open('gemIPs.txt') as gemFile:
+    with open('IPs.txt') as gemFile:
 	    for line in gemFile:
 	        string = line
 	        ipAddresses = string.split(",")
